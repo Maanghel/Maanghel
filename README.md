@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Maanghel!
+# 👋 Hi there, I'm Manuel Gamez!
 
 Welcome to my GitHub profile! I am a software development and management engineering student at the Technological University of Hermosillo (UTH) and I'm passionate
 about technology and coding.
